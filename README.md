@@ -2,7 +2,9 @@
 
 GraalVM does not build Groovy Applications:
 ```
-Fatal error: com.oracle.graal.pointsto.util.AnalysisError$ParsingError: Error encountered while parsing java.lang.invoke.CallSite.setTargetNormal(java.lang.invoke.MethodHandle) 
+Fatal error: com.oracle.graal.pointsto.util.AnalysisError$ParsingError: 
+Error encountered while parsing 
+java.lang.invoke.CallSite.setTargetNormal(java.lang.invoke.MethodHandle) 
 ```
 
 This is 
