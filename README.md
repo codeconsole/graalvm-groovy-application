@@ -6,7 +6,9 @@ Fatal error: com.oracle.graal.pointsto.util.AnalysisError$ParsingError: Error en
 ```
 
 This is 
-[https://github.com/graalvm/native-build-tools/tree/master/samples/java-application](native-build-tools/samples/java-application) converted to Groovy.
+[native-build-tools/samples/java-application](https://github.com/graalvm/native-build-tools/tree/master/samples/java-application) converted to Groovy.
+
+Which does not work as reported [here](https://github.com/graalvm/native-build-tools/issues/324)
 
 Environment Setup:
 ```
